@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[nownow2 description]]></title>
   <link href="http://nownow2.github.io/atom.xml" rel="self"/>
   <link href="http://nownow2.github.io/"/>
-  <updated>2014-12-28T16:20:44+09:00</updated>
+  <updated>2014-12-28T16:39:26+09:00</updated>
   <id>http://nownow2.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[nownow2]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Post_daily]]></title>
+    <link href="http://nownow2.github.io/blog/2014/12/28/post-daily/"/>
+    <updated>2014-12-28T16:27:42+09:00</updated>
+    <id>http://nownow2.github.io/blog/2014/12/28/post-daily</id>
+    <content type="html"><![CDATA[<p>octoPress memo</p>
+
+<ul>
+<li>保存方法　esc>コロ>w>enter</li>
+<li>markdown > htmlの生成 rake generate</li>
+<li>アップロード　rake deploy</li>
+</ul>
+
+]]></content>
+  </entry>
   
 </feed>
